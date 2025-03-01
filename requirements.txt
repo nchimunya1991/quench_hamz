@@ -2,8 +2,14 @@ numpy==1.26.2
 matplotlib==3.8.2
 pandas==2.1.4
 scipy==1.11.4
-root==6.28
+root
 clang >= 10.0
 gcc >= 9.0
 pythia==8.2
 jewel==2.3
+(1) HDF5 dependence
+In MacOS, use 
+> brew tap homebrew/science
+> brew install hdf5@1.8
+> echo 'export PATH="/usr/local/opt/hdf5@1.8/bin:$PATH"' >> ~/.bash_profile
+> source ~/.bash_profile
