@@ -1,0 +1,9 @@
+numpy==1.26.2
+matplotlib==3.8.2
+pandas==2.1.4
+scipy==1.11.4
+root==6.28
+clang >= 10.0
+gcc >= 9.0
+pythia==8.2
+jewel==2.3
