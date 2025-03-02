@@ -1,11 +1,11 @@
-numpy==1.26.2
-matplotlib==3.8.2
-pandas==2.1.4
-scipy==1.11.4
-root
+numpy==2.2.3
+matplotlib==3.10.1
+pandas==2.2.3
+scipy==1.15.2
+root==6.34.02
 clang >= 10.0
 gcc >= 9.0
-pythia==8.2
+pythia==6
 jewel==2.0
 h5py==3.8.0
 
