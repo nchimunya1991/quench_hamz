@@ -6,7 +6,7 @@ root
 clang >= 10.0
 gcc >= 9.0
 pythia==8.2
-jewel==2.3
+jewel==2.0
 (1) HDF5 dependence
 In MacOS, use 
 > brew tap homebrew/science
