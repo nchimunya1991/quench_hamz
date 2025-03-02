@@ -2,7 +2,7 @@ numpy==2.2.3
 matplotlib==3.10.1
 pandas==2.2.3
 scipy==1.15.2
-root==6.34.02
+root==6.32.10
 clang >= 10.0
 gcc >= 9.0
 pythia==6
