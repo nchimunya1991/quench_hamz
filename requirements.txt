@@ -7,9 +7,6 @@ clang >= 10.0
 gcc >= 9.0
 pythia==8.2
 jewel==2.0
-(1) HDF5 dependence
-In MacOS, use 
-> brew tap homebrew/science
-> brew install hdf5@1.8
-> echo 'export PATH="/usr/local/opt/hdf5@1.8/bin:$PATH"' >> ~/.bash_profile
-> source ~/.bash_profile
+h5py==3.8.0
+
+
